@@ -1,6 +1,6 @@
 # flutter_call_c_example
 
-A new Flutter plugin.
+An example to run a native c++ function in Flutter
 
 ## Getting Started
 
