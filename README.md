@@ -1,6 +1,7 @@
 # flutter_call_c_example
 
-An example to run a native c++ function in Flutter
+An example to run a native c++ function in `Flutter`. 
+Flutter team has this documented on the official website, but they don't have a complete simple example like this one.  
 
 ## Getting Started
 
